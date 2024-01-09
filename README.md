@@ -10,8 +10,8 @@ As I navigate the exhilarating journey towards proficiency, I perpetually fuel m
 
 ## Skills
 
-- **Programming Languages:** HTML, CSS, JavaScript, C, Java, PHP(beginner to intermediate level)
-- **Software and Tools:** Figma, Wix, Git, GitHub, Laravel
+- **Programming Languages:** HTML, CSS, JavaScript, C, Java, PHP(beginner to intermediate level), DART
+- **Software and Tools:** Figma, Wix, Git, GitHub, Laravel, Flutter
 - **IDEs:** Visual Studio Code
 
 ## Working On
@@ -19,6 +19,7 @@ As I navigate the exhilarating journey towards proficiency, I perpetually fuel m
 - To gain hands-on experience I am working on my personal Web Development Projects 
 - Contributing to open-source projects to learn from experienced developers and refine my skills
 - Making Some JAVA Applications to keep my knowlegde updated
+- Building Android Apps using Flutter and DART to keep my hands working.
 
 ## Contact Me
 
