@@ -2,24 +2,24 @@
 
 ## Greetings!
 
-Hello there! I'm Prathamesh Rokade, a passionate Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning .
+Hello! I'm Prathamesh Rokade, an ardent Computer Science and Engineering student specializing in the dynamic fields of Artificial Intelligence and Machine Learning.
 
-Enthusiastically exploring the realm of web development and Android App Development, with a keen eye for creating visually appealing and functional websites and Apps.
+I embark on an exhilarating journey, navigating the realms of web development and Android App Development with a keen eye for crafting visually appealing and functional websites and apps.
 
-As I navigate the exhilarating journey towards proficiency, I perpetually fuel my progress with an insatiable curiosity, always seeking opportunities to learn and enhance my skills.Constantly updating my skills is a non-stop commitment, an ongoing effort to stay at the forefront of my field and ensure continuous improvement.
+My commitment to proficiency is fueled by insatiable curiosity, leading me to seize opportunities for continuous learning and skill enhancement. I view skill updates as a perpetual commitment, ensuring I stay at the forefront of my field for continuous improvement.
 
 ## Skills
 
 - **Programming Languages:** HTML, CSS, JavaScript, C, Java, PHP(beginner to intermediate level), DART
-- **Software and Tools:** Figma, Wix, Git, GitHub, Laravel, Flutter
+- **Software and Tools:** Figma, Wix, Git, GitHub, Laravel, Flutter, Google Cloud
 - **IDEs:** Visual Studio Code
 
 ## Working On
 
-- To gain hands-on experience I am working on my personal Web Development Projects 
-- Contributing to open-source projects to learn from experienced developers and refine my skills
-- Making Some JAVA Applications to keep my knowlegde updated
-- Building Android Apps using Flutter and DART to keep my hands working.
+- **Web Development Projects:** Actively engaged in hands-on projects, ranging from personal endeavors to collaborative initiatives, to gain practical experience and hone my skills.
+- **Open-Source Contributions:** Contributing to open-source projects is a crucial aspect of my learning journey. It allows me to learn from seasoned developers, contribute meaningfully to projects, and refine my skills in a real-world setting.
+- **JAVA Applications:** Creating JAVA applications is my way of staying current with the latest developments in the programming landscape. It's a practice that keeps my problem-solving skills sharp and expands my knowledge base.
+- **Android App Development:** Building engaging Android apps using Flutter and DART is a constant endeavor. This not only keeps my hands busy but also allows me to explore innovative ways to deliver user-friendly and visually appealing mobile applications.
 
 ## Contact Me
 
