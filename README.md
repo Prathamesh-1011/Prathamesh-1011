@@ -1,4 +1,3 @@
-# About Me
 
 ## Greetings!
 
@@ -6,9 +5,9 @@ Hello! I'm Prathamesh Rokade, an ardent Computer Science and Engineering student
 
 I embark on an exhilarating journey, navigating the realms of web development and Android App Development with a keen eye for crafting visually appealing and functional websites and apps.
 
-My commitment to proficiency is fueled by insatiable curiosity, leading me to seize opportunities for continuous learning and skill enhancement. I view skill updates as a perpetual commitment, ensuring I stay at the forefront of my field for continuous improvement.
 
-## Skills
+## Skills  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 
 - **Programming Languages:** HTML, CSS, JavaScript, C, Java, PHP(beginner to intermediate level), DART
 - **Software and Tools:** Figma, Wix, Git, GitHub, Laravel, Flutter, Google Cloud
@@ -17,8 +16,6 @@ My commitment to proficiency is fueled by insatiable curiosity, leading me to se
 ## Working On
 
 - **Web Development Projects:** Actively engaged in hands-on projects, ranging from personal endeavors to collaborative initiatives, to gain practical experience and hone my skills.
-- **Open-Source Contributions:** Contributing to open-source projects is a crucial aspect of my learning journey. It allows me to learn from seasoned developers, contribute meaningfully to projects, and refine my skills in a real-world setting.
-- **JAVA Applications:** Creating JAVA applications is my way of staying current with the latest developments in the programming landscape. It's a practice that keeps my problem-solving skills sharp and expands my knowledge base.
 - **Android App Development:** Building engaging Android apps using Flutter and DART is a constant endeavor. This not only keeps my hands busy but also allows me to explore innovative ways to deliver user-friendly and visually appealing mobile applications.
 
 ## Contact Me
