@@ -1,13 +1,18 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey%20Everyone&section=header&reversal=false&textBg=false&fontAlign=50&animation=blink">
+</p>
 
-## Greetings!
+<h1 align="center">
+<img align="center" alt="GIF" src="https://github.com/Prathamesh-1011/Prathamesh-1011/blob/main/dev-working_rounded.gif?raw=true" width="650" height="550" />
+</h1>
 
+## About Me
 Hello! I'm Prathamesh Rokade, an ardent Computer Science and Engineering student specializing in the dynamic fields of Artificial Intelligence and Machine Learning.
 
 I embark on an exhilarating journey, navigating the realms of web development and Android App Development with a keen eye for crafting visually appealing and functional websites and apps.
 
-
 ## Skills  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
+<img align="right" alt="GIF" src="https://github.com/Prathamesh-1011/Prathamesh-1011/blob/main/octocat.png?raw=true" width="650" height="830" />
 
 - **Programming Languages:** HTML, CSS, JavaScript, C, Java, PHP(beginner to intermediate level), DART
 - **Software and Tools:** Figma, Wix, Git, GitHub, Laravel, Flutter, Google Cloud
@@ -54,13 +59,3 @@ Mail : [Send me an email](prathameshr955@gmail.com)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh-1011&" alt="prathamesh-1011" /></p>
 <br>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-<br>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Prathamesh-1011&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Prathamesh-1011&icon=7&color=11)](https://visitcount.itsvg.in)
