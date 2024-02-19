@@ -12,7 +12,7 @@ Hello! I'm Prathamesh Rokade, an ardent Computer Science and Engineering student
 I embark on an exhilarating journey, navigating the realms of web development and Android App Development with a keen eye for crafting visually appealing and functional websites and apps.
 
 ## Skills  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<img align="right" alt="GIF" src="https://github.com/Prathamesh-1011/Prathamesh-1011/blob/main/octocat.png?raw=true" width="650" height="830" />
+<img align="right" alt="GIF" src="https://github.com/Prathamesh-1011/Prathamesh-1011/blob/main/octocat.png?raw=true" width="450" height="630" />
 
 - **Programming Languages:** HTML, CSS, JavaScript, C, Java, PHP(beginner to intermediate level), DART
 - **Software and Tools:** Figma, Wix, Git, GitHub, Laravel, Flutter, Google Cloud
