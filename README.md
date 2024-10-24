@@ -51,6 +51,10 @@ Mail : [Send me an email](prathameshr955@gmail.com)
 ![](https://github-profile-trophy.vercel.app/?username=Prathamesh-1011&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <br>
 
+###
+## Hacktoberfest 2024 Badges 
+[![An image of @prathamesh1011's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prathamesh1011)](https://holopin.io/@prathamesh1011)
+
 ## 📊 GitHub Stats:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamesh-1011&show_icons=true&locale=en&layout=compact" alt="prathamesh-1011" /></p>
