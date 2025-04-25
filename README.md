@@ -9,19 +9,22 @@
 ## About Me
 Hello! I'm Prathamesh Rokade, an ardent Computer Science and Engineering student specializing in the dynamic fields of Artificial Intelligence and Machine Learning.
 
-I embark on an exhilarating journey, navigating the realms of web development and Android App Development with a keen eye for crafting visually appealing and functional websites and apps.
+I’m deeply fascinated by the power of data and intelligent systems. My journey revolves around building predictive models, analyzing patterns, and solving real-world problems using Machine Learning and Deep Learning. From training models on structured datasets to experimenting with neural networks for image and text classification, I thrive on transforming abstract concepts into impactful solutions.
+
+Beyond ML and DL, I enjoy diving into web development and Android app development—crafting visually appealing and functional digital experiences that blend creativity with technology.
 
 ## Skills  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <img align="right" alt="GIF" src="https://github.com/Prathamesh-1011/Prathamesh-1011/blob/main/octocat.png?raw=true" width="450" height="630" />
 
-- **Programming Languages:** HTML, CSS, JavaScript, C, Java, PHP(beginner to intermediate level), DART
-- **Software and Tools:** Figma, Wix, Git, GitHub, Laravel, Flutter, Google Cloud
-- **IDEs:** Visual Studio Code
+- **Programming:** Python, Java, Machine Learning, Deep Learning, Natural Language Processing (NLP), SQL, Linux, Flutter  
+- **Tools and Platforms:** Leetcode, GitHub, MySQL, Figma, Canva, Photoshop, Adobe Premiere Pro, WordPress, WIX, Computer Networks, Operating System, AWS, Data Analysis, MERN Stack, Spring Boot, Docker, Jenkins  
+- **Digital Marketing:** SEO, SEM, Email Marketing, Google Analytics, Semrush
 
 ## Working On
 
-- **Web Development Projects:** Actively engaged in hands-on projects, ranging from personal endeavors to collaborative initiatives, to gain practical experience and hone my skills.
-- **Android App Development:** Building engaging Android apps using Flutter and DART is a constant endeavor. This not only keeps my hands busy but also allows me to explore innovative ways to deliver user-friendly and visually appealing mobile applications.
+- **Machine Learning Projects:** Passionately working on diverse machine learning projects involving supervised and unsupervised learning, with a focus on real-world applications like prediction systems, classification models, and recommendation engines to deepen practical understanding.
+- **Deep Learning Exploration:** Consistently exploring the depths of deep learning by developing neural network models using frameworks like TensorFlow and PyTorch. From image classification to natural language processing, I enjoy experimenting with innovative architectures to solve complex problems.
+
 
 ## Contact Me
 
