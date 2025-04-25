@@ -64,5 +64,9 @@ Mail : [Send me an email](prathameshr955@gmail.com)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathamesh-1011&show_icons=true&locale=en" alt="prathamesh-1011" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh-1011&" alt="prathamesh-1011" /></p>
+### 🔝 Top Contributed Repo
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=prathamesh-1011&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <br>
+
+### Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/prathamesh-1011/count.svg)
