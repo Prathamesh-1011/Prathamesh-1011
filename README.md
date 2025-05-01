@@ -67,6 +67,3 @@ Mail : [Send me an email](prathameshr955@gmail.com)
 ### 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=prathamesh-1011&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <br>
-
-### Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/prathamesh-1011/count.svg)
