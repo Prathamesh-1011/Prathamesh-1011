@@ -11,7 +11,7 @@ Hello! I'm Prathamesh Rokade, an ardent Computer Science and Engineering student
 
 I’m deeply fascinated by the power of data and intelligent systems. My journey revolves around building predictive models, analyzing patterns, and solving real-world problems using Machine Learning and Deep Learning. From training models on structured datasets to experimenting with neural networks for image and text classification, I thrive on transforming abstract concepts into impactful solutions.
 
-Beyond ML and DL, I enjoy diving into web development and Android app development—crafting visually appealing and functional digital experiences that blend creativity with technology.
+To support this, I actively leverage powerful tools and services like AWS SageMaker, AWS Comprehend, AWS Rekognition and other AWS tools for scalable and production-grade ML, NLP, and CV applications. These platforms help me deploy and manage machine learning pipelines, perform natural language understanding, and extract insights from visual data.
 
 ## Skills  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <img align="right" alt="GIF" src="https://github.com/Prathamesh-1011/Prathamesh-1011/blob/main/octocat.png?raw=true" width="450" height="630" />
@@ -22,8 +22,9 @@ Beyond ML and DL, I enjoy diving into web development and Android app developmen
 
 ## Working On
 
-- **Machine Learning Projects:** Passionately working on diverse machine learning projects involving supervised and unsupervised learning, with a focus on real-world applications like prediction systems, classification models, and recommendation engines to deepen practical understanding.
-- **Deep Learning Exploration:** Consistently exploring the depths of deep learning by developing neural network models using frameworks like TensorFlow and PyTorch. From image classification to natural language processing, I enjoy experimenting with innovative architectures to solve complex problems.
+- **Machine Learning Projects**: Passionately working on diverse machine learning projects involving supervised and unsupervised learning, with a focus on real-world applications like prediction systems, classification models, and recommendation engines to deepen practical understanding. Leveraging AWS SageMaker for scalable training and deployment.
+
+- **Deep Learning Exploration:** Consistently exploring the depths of deep learning by developing neural network models using TensorFlow and PyTorch. From image classification using AWS Rekognition to NLP with AWS Comprehend, I enjoy experimenting with innovative architectures to solve complex problems.
 
 
 ## Contact Me
